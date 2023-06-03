@@ -1,0 +1,21 @@
+{
+  "key.category.parcaea": "帕卡咿呀",
+  "key.parcaea.test": "测试",
+  "key.parcaea.toggle_invert_sprint": "切换反转疾跑",
+  "key.parcaea.invert_sprint": "反转疾跑",
+  "key.parcaea.menu": "主菜单",
+  "key.parcaea.toggle_all_labels": "切换显示所有标签",
+
+  "label.parcaea.x": "X",
+  "label.parcaea.y": "Y",
+  "label.parcaea.z": "Z",
+  "label.parcaea.facing": "F",
+
+  "button.parcaea.label_pos_menu": "标签",
+  "button.parcaea.label_x": "X",
+  "button.parcaea.label_y": "Y",
+  "button.parcaea.label_z": "Z",
+  "button.parcaea.label_facing": "Facing",
+
+  "message.parcaea.invert_sprint": "反转疾跑"
+}

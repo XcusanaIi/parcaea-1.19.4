@@ -1,0 +1,21 @@
+{
+  "key.category.parcaea": "Parcaea",
+  "key.parcaea.test": "Test",
+  "key.parcaea.toggle_invert_sprint": "Toggle Invert Sprint",
+  "key.parcaea.invert_sprint": "Invert Sprint",
+  "key.parcaea.menu": "Open Menu",
+  "key.parcaea.toggle_all_labels": "Toggle All Labels",
+
+  "label.parcaea.x": "X",
+  "label.parcaea.y": "Y",
+  "label.parcaea.z": "Z",
+  "label.parcaea.facing": "F",
+
+  "button.parcaea.label_pos_menu": "Labels",
+  "button.parcaea.label_x": "X",
+  "button.parcaea.label_y": "Y",
+  "button.parcaea.label_z": "Z",
+  "button.parcaea.label_facing": "Facing",
+
+  "message.parcaea.invert_sprint": "Invert Sprint"
+}

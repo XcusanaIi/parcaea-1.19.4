@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "parcaea",
+  "version": "${version}",
+
+  "name": "Parcaea",
+  "description": "Parcaea Parkour Mod!",
+  "authors": [
+    "XcusanaIi"
+  ],
+  "contact": {
+    "homepage": "https://space.bilibili.com/1341437612",
+    "sources": "https://github.com/XcusanaIi/parcaea"
+  },
+
+  "license": "MIT",
+  "icon": "assets/parcaea/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.xcusanaii.parcaea.Parcaea"
+    ],
+    "client": [
+      "io.github.xcusanaii.parcaea.ParcaeaClient"
+    ],
+    "modmenu": [
+      "io.github.xcusanaii.parcaea.model.config.ModMenuApiImpl"
+    ]
+  },
+  "mixins": [
+    "parcaea.mixins.json"
+  ],
+
+  "dependencies": {
+    "yet_another_config_lib": "^2.5.1+1.19.4",
+    "modmenu": "^6.2.1",
+    "cloth-config-fabric": "^10.0.96"
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
